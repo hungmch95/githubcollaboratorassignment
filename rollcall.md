@@ -10,4 +10,6 @@ Name, Organization, and Contact Info
 	* Email: birgit.penzenstadler@csulb.edu
 	* GitHub: @kamikitty
 	
-* 
+* Syed Hussain, CSULB
+	* Email:
+	* GitHub: @whathappenedman
