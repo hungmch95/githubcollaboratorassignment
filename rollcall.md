@@ -13,3 +13,12 @@ Name, Organization, and Contact Info
 * Daniel Kray, CSULB
     * Email: dankray@gmail.com  
     * Github: @deccakray 
+    
+* Jonathan Chan, CSULB
+	* Email: jonathanpchan@gmail.com
+	* GitHub: @jonathanpchan
+
+* Mark Levie Mendoza, CSULB student
+	* Email: markolo25@gmail.com
+	* GitHub: @markolo25 
+
