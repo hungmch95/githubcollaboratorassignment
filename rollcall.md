@@ -10,4 +10,6 @@ Name, Organization, and Contact Info
 	* Email: birgit.penzenstadler@csulb.edu
 	* GitHub: @kamikitty
 	
-* 
+* Daniel Kray, CSULB
+    * Email: dankray@gmail.com  
+    * Github: @deccakray 
