@@ -11,5 +11,5 @@ Name, Organization, and Contact Info
 	* GitHub: @kamikitty
 	
 * Romeo Garalde, CSULB
-	*Email: rgaralde91@gmail.com
-	*GitHub: @romeo91jg
+	* Email: rgaralde91@gmail.com
+	* GitHub: @romeo91jg
