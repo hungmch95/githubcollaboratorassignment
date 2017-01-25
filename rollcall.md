@@ -10,4 +10,6 @@ Name, Organization, and Contact Info
 	* Email: birgit.penzenstadler@csulb.edu
 	* GitHub: @kamikitty
 	
-* 
+* Aaron Chai, CSULB
+	* Email: aaronc24400@gmail.com
+	* Github: @aaronjchai
