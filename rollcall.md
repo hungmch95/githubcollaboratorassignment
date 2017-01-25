@@ -6,8 +6,8 @@ Rollcall
 Name, Organization, and Contact Info
 -------------------------------------------------
 
-* Birgit Penzenstadler, CSULB
-	* Email: birgit.penzenstadler@csulb.edu
-	* GitHub: @kamikitty
+* Daniel Sanchez, CSULB
+	* Email: sanchez.daniel9365@gmail.com
+	* GitHub: @DanSan06
 	
 * 
