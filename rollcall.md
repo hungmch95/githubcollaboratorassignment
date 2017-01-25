@@ -10,4 +10,6 @@ Name, Organization, and Contact Info
 	* Email: birgit.penzenstadler@csulb.edu
 	* GitHub: @kamikitty
 	
-* 
+* Christian Gumacal, CSULB CECS 491A
+	* Email: Cgumacal94@hotmail.com
+	* GitHub: @Cgumacal
