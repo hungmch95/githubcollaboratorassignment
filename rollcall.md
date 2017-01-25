@@ -6,8 +6,6 @@ Rollcall
 Name, Organization, and Contact Info
 -------------------------------------------------
 
-* Birgit Penzenstadler, CSULB
-	* Email: birgit.penzenstadler@csulb.edu
-	* GitHub: @kamikitty
-	
-* 
+* Masahiro Mark Tsujimura, CSULB Student
+
+* MasahiroMarkTsujimura@gmail.com
