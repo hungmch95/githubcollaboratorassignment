@@ -10,4 +10,6 @@ Name, Organization, and Contact Info
 	* Email: birgit.penzenstadler@csulb.edu
 	* GitHub: @kamikitty
 	
-* 
+* Jonathan Chan, CSULB
+	* Email: jonathanpchan@gmail.com
+	* GitHub: @jonathanpchan
