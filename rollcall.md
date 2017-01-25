@@ -10,4 +10,6 @@ Name, Organization, and Contact Info
 	* Email: birgit.penzenstadler@csulb.edu
 	* GitHub: @kamikitty
 	
-* 
+* Brooke Gosselin, CSULB
+	* Email: bgoss086@gmail.com
+	* GitHub: @brukeGo
