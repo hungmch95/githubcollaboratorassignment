@@ -22,3 +22,7 @@ Name, Organization, and Contact Info
 	* Email: markolo25@gmail.com
 	* GitHub: @markolo25 
 
+
+* ByeongJoo Kwoon, CSULB
+	* Email: b06to587@gmail.com
+	* GitHub: b06to587
