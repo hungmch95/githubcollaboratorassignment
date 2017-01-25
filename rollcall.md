@@ -8,10 +8,3 @@ Name, Organization, and Contact Info
 * Thien Ton, 009991265
 	* CECS491a 
 	* Github: @ThienNTon
-
-
-* Birgit Penzenstadler, CSULB
-	* Email: birgit.penzenstadler@csulb.edu
-	* GitHub: @kamikitty
-	
-* 
