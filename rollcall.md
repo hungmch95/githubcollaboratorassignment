@@ -10,4 +10,6 @@ Name, Organization, and Contact Info
 	* Email: birgit.penzenstadler@csulb.edu
 	* GitHub: @kamikitty
 	
-* 
+* Hao Lu, CSULB
+	* Email: haolu2013@gmail.com
+	* GitHub: hao-lu
