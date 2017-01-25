@@ -10,4 +10,6 @@ Name, Organization, and Contact Info
 	* Email: birgit.penzenstadler@csulb.edu
 	* GitHub: @kamikitty
 	
-* 
+* Nike Caballo, CSULB
+	* Email: nikevccaballo@live.com
+	* GitHub: @nikecaballo
