@@ -22,3 +22,6 @@ Name, Organization, and Contact Info
 	* Email: markolo25@gmail.com
 	* GitHub: @markolo25 
 
+* Alejandra Gonzalez, CSULB Student
+	* Email: gonzalez.alejandra.013@gmail.com
+	* GitHub: @alejandra-gonzalez
