@@ -10,4 +10,8 @@ Name, Organization, and Contact Info
 	* Email: birgit.penzenstadler@csulb.edu
 	* GitHub: @kamikitty
 	
-* 
+* Alicia Hernandez, CSULB
+	*Email: alice.h1218@gmail.com
+	*GitHub: @aliceh5
+
+*
