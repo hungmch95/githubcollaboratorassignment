@@ -21,4 +21,7 @@ Name, Organization, and Contact Info
 * Mark Levie Mendoza, CSULB student
 	* Email: markolo25@gmail.com
 	* GitHub: @markolo25 
+* Tera Lim, CSULB
+	* Email: terabitbyte@gmail.com
+	* GitHub: @terabytes
 
