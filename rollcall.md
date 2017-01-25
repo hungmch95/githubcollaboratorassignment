@@ -22,3 +22,6 @@ Name, Organization, and Contact Info
 	* Email: markolo25@gmail.com
 	* GitHub: @markolo25 
 
+* Holly Dinh, CSULB student
+	* Email: dinh.holly@gmail.com	
+ 	* Github: @hollydinh123
