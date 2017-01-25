@@ -10,4 +10,7 @@ Name, Organization, and Contact Info
 	* Email: birgit.penzenstadler@csulb.edu
 	* GitHub: @kamikitty
 	
-* 
+* Ruben Marin, CSULB
+	* Email: rubenlmarin92@gmail.com
+	* GitHub: @staticparsley
+	
