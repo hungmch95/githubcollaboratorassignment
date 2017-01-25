@@ -6,8 +6,8 @@ Rollcall
 Name, Organization, and Contact Info
 -------------------------------------------------
 
-* Birgit Penzenstadler, CSULB
-	* Email: birgit.penzenstadler@csulb.edu
-	* GitHub: @kamikitty
+* Jonathan Nguyen, CSULB
+	* Email: jonathantnguyen95@gmail.com
+	* GitHub: @jontnguyen95
 	
 * 
