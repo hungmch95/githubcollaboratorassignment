@@ -5,6 +5,68 @@ Rollcall
 
 Name, Organization, and Contact Info
 -------------------------------------------------
--*  Thien Ton, 009991265
--	* CECS491a 
--	* Github: @ThienNTon
+* Birgit Penzenstadler, CSULB
+	* GitHub: @kamikitty
+
+* Thien Ton
+  * Github: @ThienNTon
+
+* Nicholas Sugimoto, CSULB
+	* GitHub: @suuugi
+
+* Daniel Sanchez, CSULB
+	* GitHub: @DanSan06
+
+* Masahiro Mark Tsujimura, CSULB Student
+  * Github: @MasahiroMarkTsujimura
+
+* Jonathan Nguyen, CSULB
+	* GitHub: @jontnguyen95
+	
+* Lam Tran, CSULB
+	* GitHub: @lamtran409
+
+* Marinela Sanchez, CSULB
+	* Github: @Marinela-S
+
+* Nike Caballo, CSULB
+	* GitHub: @nikecaballo
+
+* Christian Gumacal, CSULB  
+	* GitHub: @Cgumacal
+
+* Muath Alabdulkareem
+	* GitHub: @sketch-92
+
+* Brooke Gosselin, CSULB
+	* GitHub: @brukeGo
+
+* Ruben Marin, CSULB
+	* GitHub: @staticparsley
+	
+* Hao Lu, CSULB
+	* GitHub: hao-lu
+
+* Syed Hussain, CSULB
+	* GitHub: @whathappenedman
+
+* Romeo Garalde, CSULB
+	* GitHub: @romeo91jg
+
+* Tommy Le, CSULB
+	* Github: @tommyle153
+
+* Aaron Chai, CSULB
+	* Github: @aaronjchai
+
+* Carl Jason Plojo, CSULB
+	* GitHub: @jasonplojo
+
+* Daniel Kray, CSULB
+    * Github: @deccakray 
+    
+* Jonathan Chan, CSULB
+	* GitHub: @jonathanpchan
+
+* Mark Levie Mendoza, CSULB student
+	* GitHub: @markolo25 
