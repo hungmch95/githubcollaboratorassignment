@@ -9,6 +9,9 @@ Name, Organization, and Contact Info
 * Birgit Penzenstadler, CSULB
 	* GitHub: @kamikitty
 	
+* Christian Gumacal, CSULB CECS 491A
+	* GitHub: @Cgumacal
+
 * Muath Alabdulkareem
 	* GitHub: @sketch-92
 
