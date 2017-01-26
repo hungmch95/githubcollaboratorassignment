@@ -7,9 +7,22 @@ Name, Organization, and Contact Info
 -------------------------------------------------
 
 * Birgit Penzenstadler, CSULB
-	* Email: birgit.penzenstadler@csulb.edu
 	* GitHub: @kamikitty
 	
 * Aaron Chai, CSULB
-	* Email: aaronc24400@gmail.com
 	* Github: @aaronjchai
+
+* Carl Jason Plojo, CSULB
+	* GitHub: @jasonplojo
+
+* Daniel Kray, CSULB
+    * Github: @deccakray 
+    
+* Jonathan Chan, CSULB
+	* GitHub: @jonathanpchan
+
+* Mark Levie Mendoza, CSULB student
+	* GitHub: @markolo25 
+
+
+
