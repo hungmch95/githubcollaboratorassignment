@@ -9,6 +9,9 @@ Name, Organization, and Contact Info
 * Birgit Penzenstadler, CSULB
 	* GitHub: @kamikitty
 	
+* Nike Caballo, CSULB
+	* GitHub: @nikecaballo
+
 * Christian Gumacal, CSULB CECS 491A
 	* GitHub: @Cgumacal
 
