@@ -5,12 +5,14 @@ Rollcall
 
 Name, Organization, and Contact Info
 -------------------------------------------------
+* Birgit Penzenstadler, CSULB
+	* GitHub: @kamikitty
+
+* Masahiro Mark Tsujimura, CSULB Student
+  * Github: @MasahiroMarkTsujimura
 
 * Jonathan Nguyen, CSULB
 	* GitHub: @jontnguyen95
-	
-* Birgit Penzenstadler, CSULB
-	* GitHub: @kamikitty
 	
 * Nike Caballo, CSULB
 	* GitHub: @nikecaballo
