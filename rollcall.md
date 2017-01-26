@@ -17,6 +17,9 @@ Name, Organization, and Contact Info
 * Jonathan Nguyen, CSULB
 	* GitHub: @jontnguyen95
 	
+* Marinela Sanchez, CSULB
+	* Github: @Marinela-S
+
 * Nike Caballo, CSULB
 	* GitHub: @nikecaballo
 
