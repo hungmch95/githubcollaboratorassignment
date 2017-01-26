@@ -82,3 +82,6 @@ Name, Organization, and Contact Info
 
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
+
+* Connor Beckett-Lemus, CSULB
+	* GitHub: @sbthegreat
