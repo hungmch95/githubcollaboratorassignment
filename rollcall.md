@@ -35,6 +35,9 @@ Name, Organization, and Contact Info
 * Ruben Marin, CSULB
 	* GitHub: @staticparsley
 	
+* Syed Hussain, CSULB
+	* GitHub: @whathappenedman
+
 * Romeo Garalde, CSULB
 	* GitHub: @romeo91jg
 
@@ -55,4 +58,3 @@ Name, Organization, and Contact Info
 
 * Mark Levie Mendoza, CSULB student
 	* GitHub: @markolo25 
-
