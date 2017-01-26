@@ -38,6 +38,9 @@ Name, Organization, and Contact Info
 * Ruben Marin, CSULB
 	* GitHub: @staticparsley
 	
+* Hao Lu, CSULB
+	* GitHub: hao-lu
+
 * Syed Hussain, CSULB
 	* GitHub: @whathappenedman
 
