@@ -7,7 +7,37 @@ Name, Organization, and Contact Info
 -------------------------------------------------
 
 * Jonathan Nguyen, CSULB
-	* Email: jonathantnguyen95@gmail.com
 	* GitHub: @jontnguyen95
 	
-* 
+* Birgit Penzenstadler, CSULB
+	* GitHub: @kamikitty
+	
+* Nike Caballo, CSULB
+	* GitHub: @nikecaballo
+
+* Christian Gumacal, CSULB CECS 491A
+	* GitHub: @Cgumacal
+
+* Muath Alabdulkareem
+	* GitHub: @sketch-92
+
+* Brooke Gosselin, CSULB
+	* GitHub: @brukeGo
+
+* Ruben Marin, CSULB
+	* GitHub: @staticparsley
+	
+* Aaron Chai, CSULB
+	* Github: @aaronjchai
+
+* Carl Jason Plojo, CSULB
+	* GitHub: @jasonplojo
+
+* Daniel Kray, CSULB
+    * Github: @deccakray 
+    
+* Jonathan Chan, CSULB
+	* GitHub: @jonathanpchan
+
+* Mark Levie Mendoza, CSULB student
+	* GitHub: @markolo25 
