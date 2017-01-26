@@ -8,6 +8,9 @@ Name, Organization, and Contact Info
 * Birgit Penzenstadler, CSULB
 	* GitHub: @kamikitty
 
+* Nicholas Sugimoto, CSULB
+	* GitHub: @suuugi
+
 * Daniel Sanchez, CSULB
 	* GitHub: @DanSan06
 
@@ -58,3 +61,4 @@ Name, Organization, and Contact Info
 
 * Mark Levie Mendoza, CSULB student
 	* GitHub: @markolo25 
+
