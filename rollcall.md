@@ -81,4 +81,4 @@ Name, Organization, and Contact Info
  	* Github: @hollydinh123
 
 * ByeongJoo Kwoon, CSULB
-	* GitHub: b06to587
+	* GitHub: @b06to587
