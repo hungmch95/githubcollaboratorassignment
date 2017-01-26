@@ -32,6 +32,9 @@ Name, Organization, and Contact Info
 * Ruben Marin, CSULB
 	* GitHub: @staticparsley
 	
+* Romeo Garalde, CSULB
+	* GitHub: @romeo91jg
+
 * Tommy Le, CSULB
 	* Github: @tommyle153
 
