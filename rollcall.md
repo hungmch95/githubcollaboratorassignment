@@ -71,5 +71,8 @@ Name, Organization, and Contact Info
 * Mark Levie Mendoza, CSULB student
 	* GitHub: @markolo25 
 
+* Alejandra Gonzalez, CSULB Student
+	* GitHub: @alejandra-gonzalez
+
 * ByeongJoo Kwoon, CSULB
 	* GitHub: b06to587
