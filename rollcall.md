@@ -70,12 +70,15 @@ Name, Organization, and Contact Info
 
 * Mark Levie Mendoza, CSULB student
 	* GitHub: @markolo25 
+  
 * Tera Lim, CSULB
-	* Email: terabitbyte@gmail.com
 	* GitHub: @terabytes
 
 * Alejandra Gonzalez, CSULB Student
 	* GitHub: @alejandra-gonzalez
+
+* Holly Dinh, CSULB student
+ 	* Github: @hollydinh123
 
 * ByeongJoo Kwoon, CSULB
 	* GitHub: b06to587
