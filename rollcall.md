@@ -8,6 +8,9 @@ Name, Organization, and Contact Info
 * Birgit Penzenstadler, CSULB
 	* GitHub: @kamikitty
 
+* Daniel Sanchez, CSULB
+	* GitHub: @DanSan06
+
 * Masahiro Mark Tsujimura, CSULB Student
   * Github: @MasahiroMarkTsujimura
 
