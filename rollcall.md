@@ -8,6 +8,9 @@ Name, Organization, and Contact Info
 * Birgit Penzenstadler, CSULB
 	* GitHub: @kamikitty
 
+* Thien Ton
+  * Github: @ThienNTon
+
 * Nicholas Sugimoto, CSULB
 	* GitHub: @suuugi
 
@@ -29,7 +32,7 @@ Name, Organization, and Contact Info
 * Nike Caballo, CSULB
 	* GitHub: @nikecaballo
 
-* Christian Gumacal, CSULB CECS 491A
+* Christian Gumacal, CSULB  
 	* GitHub: @Cgumacal
 
 * Muath Alabdulkareem
@@ -67,4 +70,3 @@ Name, Organization, and Contact Info
 
 * Mark Levie Mendoza, CSULB student
 	* GitHub: @markolo25 
-
