@@ -20,6 +20,9 @@ Name, Organization, and Contact Info
 * Jonathan Nguyen, CSULB
 	* GitHub: @jontnguyen95
 	
+* Lam Tran, CSULB
+	* GitHub: @lamtran409
+
 * Marinela Sanchez, CSULB
 	* Github: @Marinela-S
 
