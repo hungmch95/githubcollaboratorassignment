@@ -10,6 +10,10 @@ Name, Organization, and Contact Info
 	* Email: birgit.penzenstadler@csulb.edu
 	* GitHub: @kamikitty
 	
+* Carl Jason Plojo, CSULB
+	* Email: carljason.plojo@student.csulb.edu
+	* GitHub: @jasonplojo
+
 * Daniel Kray, CSULB
     * Email: dankray@gmail.com  
     * Github: @deccakray 
@@ -21,4 +25,5 @@ Name, Organization, and Contact Info
 * Mark Levie Mendoza, CSULB student
 	* Email: markolo25@gmail.com
 	* GitHub: @markolo25 
+
 
