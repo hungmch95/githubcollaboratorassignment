@@ -7,9 +7,31 @@ Name, Organization, and Contact Info
 -------------------------------------------------
 
 * Birgit Penzenstadler, CSULB
-	* Email: birgit.penzenstadler@csulb.edu
 	* GitHub: @kamikitty
 	
 * Christian Gumacal, CSULB CECS 491A
-	* Email: Cgumacal94@hotmail.com
 	* GitHub: @Cgumacal
+
+* Muath Alabdulkareem
+	* GitHub: @sketch-92
+
+* Brooke Gosselin, CSULB
+	* GitHub: @brukeGo
+
+* Ruben Marin, CSULB
+	* GitHub: @staticparsley
+	
+* Aaron Chai, CSULB
+	* Github: @aaronjchai
+
+* Carl Jason Plojo, CSULB
+	* GitHub: @jasonplojo
+
+* Daniel Kray, CSULB
+    * Github: @deccakray 
+    
+* Jonathan Chan, CSULB
+	* GitHub: @jonathanpchan
+
+* Mark Levie Mendoza, CSULB student
+	* GitHub: @markolo25 
