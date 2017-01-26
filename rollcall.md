@@ -9,6 +9,9 @@ Name, Organization, and Contact Info
 * Birgit Penzenstadler, CSULB
 	* GitHub: @kamikitty
 	
+* Brooke Gosselin, CSULB
+	* GitHub: @brukeGo
+
 * Ruben Marin, CSULB
 	* GitHub: @staticparsley
 	
@@ -26,3 +29,4 @@ Name, Organization, and Contact Info
 
 * Mark Levie Mendoza, CSULB student
 	* GitHub: @markolo25 
+
