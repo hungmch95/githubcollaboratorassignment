@@ -6,6 +6,9 @@ Rollcall
 Name, Organization, and Contact Info
 -------------------------------------------------
 
+* Jonathan Nguyen, CSULB
+	* GitHub: @jontnguyen95
+	
 * Birgit Penzenstadler, CSULB
 	* GitHub: @kamikitty
 	
