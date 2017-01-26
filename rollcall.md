@@ -70,3 +70,6 @@ Name, Organization, and Contact Info
 
 * Mark Levie Mendoza, CSULB student
 	* GitHub: @markolo25 
+
+* ByeongJoo Kwoon, CSULB
+	* GitHub: b06to587
