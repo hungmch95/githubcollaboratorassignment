@@ -37,6 +37,9 @@ Name, Organization, and Contact Info
 
 * Muath Alabdulkareem
 	* GitHub: @sketch-92
+	
+* Jason Kim, CSULB
+	* GitHub: @jasonjyk
 
 * Brooke Gosselin, CSULB
 	* GitHub: @brukeGo
