@@ -22,7 +22,7 @@ Name, Organization, and Contact Info
 
 * Jonathan Nguyen, CSULB
 	* GitHub: @jontnguyen95
-	
+
 * Lam Tran, CSULB
 	* GitHub: @lamtran409
 
@@ -43,7 +43,7 @@ Name, Organization, and Contact Info
 
 * Ruben Marin, CSULB
 	* GitHub: @staticparsley
-	
+
 * Hao Lu, CSULB
 	* GitHub: hao-lu
 
@@ -63,14 +63,14 @@ Name, Organization, and Contact Info
 	* GitHub: @jasonplojo
 
 * Daniel Kray, CSULB
-    * Github: @deccakray 
-    
+    * Github: @deccakray
+
 * Jonathan Chan, CSULB
 	* GitHub: @jonathanpchan
 
 * Mark Levie Mendoza, CSULB student
-	* GitHub: @markolo25 
-  
+	* GitHub: @markolo25
+
 * Tera Lim, CSULB
 	* GitHub: @terabytes
 
@@ -82,3 +82,6 @@ Name, Organization, and Contact Info
 
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
+
+* Brian Powell, CSULB Student
+	* GitHub: @BriianPowell
