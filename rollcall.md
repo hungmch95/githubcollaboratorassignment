@@ -82,3 +82,5 @@ Name, Organization, and Contact Info
 
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
+* Xinyi Chen, CSULB student
+	* Github: @xinyichen8
