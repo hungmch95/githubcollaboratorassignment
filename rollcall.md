@@ -82,3 +82,6 @@ Name, Organization, and Contact Info
 
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
+
+* Raul Herrera, CSULB Student
+	* GitHub: @rawrool
