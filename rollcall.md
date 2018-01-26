@@ -90,6 +90,8 @@ Name, Organization, and Contact Info
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
 
+* Greg Paolo Violan, CSULB
+	* GitHub: @violangreg
 
 * Austin Leavitt, CSULB student
 	* GitHub: @AustinLeavitt
@@ -168,4 +170,3 @@ Name, Organization, and Contact Info
 
 * Connor Beckett-Lemus, CSULB
 	* GitHub: @sbthegreat
-
