@@ -89,6 +89,9 @@ Name, Organization, and Contact Info
 
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
+	
+* Brian Pham, CSULB
+	* Github: @bpbrianpham
 
 * Brian Powell, CSULB Student
 	* GitHub: @BriianPowell
