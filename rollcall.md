@@ -87,6 +87,8 @@ Name, Organization, and Contact Info
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
 
+* Dennis Vu, CSULB
+	* GitHub: @dlvcsulb
 
 * Darren Ly, CSULB Student
 	* GitHub: @lydarren
@@ -96,5 +98,3 @@ Name, Organization, and Contact Info
 
 * Connor Beckett-Lemus, CSULB
 	* GitHub: @sbthegreat
-
-
