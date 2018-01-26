@@ -86,6 +86,9 @@ Name, Organization, and Contact Info
 
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
+	
+* Jose Hernandez-Uribe, CSULB Student
+	* GitHub: @JosetheJedi
 
 * Raul Herrera, CSULB Student
 	* GitHub: @rawrool
