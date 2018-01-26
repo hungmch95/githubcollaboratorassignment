@@ -89,6 +89,9 @@ Name, Organization, and Contact Info
 
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
+
+* Nhan Nguyen, CSULB Student
+	* GitHub: @nnguyen682
 	
 * Anthony Myers, CSULB
 	* Github: @AnthonySMyers
