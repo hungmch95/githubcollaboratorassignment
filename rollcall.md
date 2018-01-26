@@ -86,6 +86,9 @@ Name, Organization, and Contact Info
 
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
+
+* Mark Tan, CSULB
+	* GitHub: @tanmark927
 	
 * Mark Saavedra, CSULB
 	* GitHub: @MarkSaa
