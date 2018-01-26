@@ -44,6 +44,10 @@ Name, Organization, and Contact Info
 * Ruben Marin, CSULB
 	* GitHub: @staticparsley
 	
+* Alicia Hernandez, CSULB
+	*Email: alice.h1218@gmail.com
+	*GitHub: @aliceh5
+  
 * Hao Lu, CSULB
 	* GitHub: hao-lu
 
@@ -85,3 +89,15 @@ Name, Organization, and Contact Info
 	
 * Alexander Vu, CSULB
 	* GitHub: @alexxvu
+
+* Dennis Vu, CSULB
+	* GitHub: @dlvcsulb
+
+* Darren Ly, CSULB Student
+	* GitHub: @lydarren
+
+* Kyle Nakano, CSULB
+	* GitHub: @jtnoboru
+
+* Connor Beckett-Lemus, CSULB
+	* GitHub: @sbthegreat
