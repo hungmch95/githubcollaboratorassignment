@@ -90,6 +90,10 @@ Name, Organization, and Contact Info
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
 
+
+* Austin Leavitt, CSULB student
+	* GitHub: @AustinLeavitt
+
 * Juan Espinoza, CSULB
 	* GitHub: @jespinoza17
 
