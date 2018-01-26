@@ -89,6 +89,9 @@ Name, Organization, and Contact Info
 
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
+	
+* Brian To, CSULB
+	* Github: @bto96
 
 * Patrick Ly, CSULB
 	* GitHub: @patrickly		
