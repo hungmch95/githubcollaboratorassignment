@@ -90,6 +90,9 @@ Name, Organization, and Contact Info
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
 
+* Jeffrey Tam, CSULB
+	* GitHub: @jtam360
+
 * Nhan Nguyen, CSULB Student
 	* GitHub: @nnguyen682
 	
@@ -103,6 +106,7 @@ Name, Organization, and Contact Info
 	* GitHub: @Amalazing
 
 * Daniel Wang, CSCULB
+  * GIthub: @danqo
 	
 * Brian Pham, CSULB
 	* Github: @bpbrianpham
