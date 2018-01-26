@@ -86,6 +86,9 @@ Name, Organization, and Contact Info
 
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
+	
+* Alexander Vu, CSULB
+	* GitHub: @alexxvu
 
 * Dennis Vu, CSULB
 	* GitHub: @dlvcsulb
