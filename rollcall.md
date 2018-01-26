@@ -90,6 +90,9 @@ Name, Organization, and Contact Info
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
 	
+* Harry Hoang, CSULB
+	* GitHub: @harryhoang96
+
 * Brian To, CSULB
 	* Github: @bto96
 
@@ -128,3 +131,4 @@ Name, Organization, and Contact Info
 
 * Connor Beckett-Lemus, CSULB
 	* GitHub: @sbthegreat
+
