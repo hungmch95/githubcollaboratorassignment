@@ -90,6 +90,9 @@ Name, Organization, and Contact Info
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
 
+* Dion Woo, CSULB
+	* GitHub: @dionwu110
+
 * Jeffrey Tam, CSULB
 	* GitHub: @jtam360
 
@@ -155,4 +158,3 @@ Name, Organization, and Contact Info
 
 * Connor Beckett-Lemus, CSULB
 	* GitHub: @sbthegreat
-
