@@ -86,6 +86,9 @@ Name, Organization, and Contact Info
 
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
+
+* Raul Herrera, CSULB Student
+	* GitHub: @rawrool
 	
 * Caitlin Rubia, CSULB
 	* GitHub: @caitlinrubia	
@@ -107,4 +110,3 @@ Name, Organization, and Contact Info
 
 * Connor Beckett-Lemus, CSULB
 	* GitHub: @sbthegreat
-
