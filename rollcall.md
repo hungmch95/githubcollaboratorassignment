@@ -89,6 +89,9 @@ Name, Organization, and Contact Info
 
 * ByeongJoo Kwoon, CSULB
 	* GitHub: @b06to587
+	
+* Lawrence Mueller, CSULB Student
+	* GitHub: @Amalazing
 
 * Daniel Wang, CSCULB
 	
@@ -139,4 +142,3 @@ Name, Organization, and Contact Info
 
 * Connor Beckett-Lemus, CSULB
 	* GitHub: @sbthegreat
-
