@@ -37,6 +37,9 @@ Name, Organization, and Contact Info
 
 * Muath Alabdulkareem
 	* GitHub: @sketch-92
+	
+* Jason Kim, CSULB
+	* GitHub: @jasonjyk
 
 * Brooke Gosselin, CSULB
 	* GitHub: @brukeGo
@@ -44,6 +47,10 @@ Name, Organization, and Contact Info
 * Ruben Marin, CSULB
 	* GitHub: @staticparsley
 	
+* Alicia Hernandez, CSULB
+	*Email: alice.h1218@gmail.com
+	*GitHub: @aliceh5
+  
 * Hao Lu, CSULB
 	* GitHub: hao-lu
 
@@ -85,3 +92,39 @@ Name, Organization, and Contact Info
 	
 * Brian To, CSULB
 	* Github: @bto96
+
+* Patrick Ly, CSULB
+	* GitHub: @patrickly		
+
+* Mark Tan, CSULB
+	* GitHub: @tanmark927
+	
+* Mark Saavedra, CSULB
+	* GitHub: @MarkSaa
+
+* Jose Hernandez-Uribe, CSULB Student
+	* GitHub: @JosetheJedi
+
+* Raul Herrera, CSULB Student
+	* GitHub: @rawrool
+	
+* Caitlin Rubia, CSULB
+	* GitHub: @caitlinrubia	
+
+* Xinyi Chen, CSULB student
+	* Github: @xinyichen8
+	
+* Alexander Vu, CSULB
+	* GitHub: @alexxvu
+
+* Dennis Vu, CSULB
+	* GitHub: @dlvcsulb
+
+* Darren Ly, CSULB Student
+	* GitHub: @lydarren
+
+* Kyle Nakano, CSULB
+	* GitHub: @jtnoboru
+
+* Connor Beckett-Lemus, CSULB
+	* GitHub: @sbthegreat
