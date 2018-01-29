@@ -173,3 +173,6 @@ Name, Organization, and Contact Info
 	
 * Bryson Sherman, CSULB Student
 	* GitHub: @brysonsherman
+	
+* Susan Lim, CSULB
+	* GitHub: @skl1m
