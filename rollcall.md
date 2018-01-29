@@ -174,6 +174,9 @@ Name, Organization, and Contact Info
 * Bryson Sherman, CSULB Student
 	* GitHub: @brysonsherman
 
+* Agaby Azer, CSULB
+	* Github: @agaby 
+
 * Wesley Yang, CSULB
 	* GitHub: @wes-yang
 	
