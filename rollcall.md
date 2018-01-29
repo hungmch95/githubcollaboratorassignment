@@ -173,3 +173,6 @@ Name, Organization, and Contact Info
 	
 * Bryson Sherman, CSULB Student
 	* GitHub: @brysonsherman
+
+* Wesley Yang, CSULB
+	* GitHub: @wes-yang
