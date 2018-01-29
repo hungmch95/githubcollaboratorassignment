@@ -170,3 +170,6 @@ Name, Organization, and Contact Info
 
 * Connor Beckett-Lemus, CSULB
 	* GitHub: @sbthegreat
+	
+* Bryson Sherman, CSULB Student
+	* GitHub: @brysonsherman
