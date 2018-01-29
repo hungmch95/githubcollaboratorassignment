@@ -176,3 +176,6 @@ Name, Organization, and Contact Info
 
 * Wesley Yang, CSULB
 	* GitHub: @wes-yang
+	
+* Susan Lim, CSULB
+	* GitHub: @skl1m
