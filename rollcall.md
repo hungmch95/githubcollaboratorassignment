@@ -84,4 +84,5 @@ Name, Organization, and Contact Info
 	* GitHub: @b06to587
 
 * Hung Mach, CSULB
-	* Github: @hungmch95
+	*Github: @Hungmch95
+
