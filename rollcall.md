@@ -182,3 +182,6 @@ Name, Organization, and Contact Info
 	
 * Susan Lim, CSULB
 	* GitHub: @skl1m
+	
+* Hung Mach, CSULB
+	* GitHub: @hungmch95
